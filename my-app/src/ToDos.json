@@ -1,0 +1,28 @@
+{
+  "toDo": [
+    {
+      "title": "Task 1",
+      "responsable": "Mike",
+      "description": "nice",
+      "priority":"low"
+    },
+    {
+      "title": "Task 2",
+      "responsable": "Jack",
+      "description": "Low",
+      "priority":"medium"
+    },
+    {
+      "title": "Task 3",
+      "responsable": "Pedro",
+      "description": "nice2",
+      "priority":"high"
+    },
+    {
+      "title": "Task 4",
+      "responsable": "Pedro",
+      "description": "nice2",
+      "priority":"pumm"
+    }
+  ]
+}
